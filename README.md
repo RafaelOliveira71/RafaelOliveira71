@@ -13,6 +13,7 @@ Html - Node.js - Typescript - SQL - Git
 
 Você pode entrar em contato comigo através das seguintes plataformas:
 
-Linkedin: https://www.linkedin.com/in/rafaeloliveira71/ 
-
-Email: rafanouses@gmail.com
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/rafaeloliveira71/)
+ 
+✉️ [Email](mailto:rafanouses@gmail.com)
+ 
